@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">My Bce</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="demsg">On behalf of Bhagalpur College of Engineering, Bhagalpur it is my pleasure to welcome you on the campus. This Institute has been known for its values for more than five decades, and we strive hard to keep up the ethos. In case we have inadvertently slipped somewhere, I offer my sincere apologies. It provides an optimum mix of theory and practical, with strong bias on industrial applications. In more recent years, introduction of modern infrastructure have further improved the programme. While the depth of training in engineering subjects is unquestioned, the spam of our curriculum is often overlooked. By virtue of their unrattled spirits, the BCE graduates have aspiration to learn and grow across departmental boundaries and excel in extra curricular activities. You will be provided each and every necessary resource for your recruitment process on our campus. I am sure our students will deliver with due diligence. Looking forward to your enduring and continuing relationship and support for the Institute.</string>
+    <string name="about_us">
+    BCE Bhagalpur, a place unique in its own aspect, a place where education is worship, a place where seamless effort breeds talent, a place that nurtures the ideology of "truth is education in service of people and power in service of nation".\nSituated near the land of enlightenment, Vikramshila, and on the bank of Ganges, this is home for inginuity.
+    \nStarted with the initiative of Pt. Jawaharlal Nehru and Sri Krishna Singh, this is the premier Institute on technological education under the ambit of DST, Govt. Of Bihar. Its aim is a economically self-reliant and technologically advanced India, and true to its aim, it has given the nation, a large pool of scientists for BARC, DRDO, RDSO,etc. and entrepreneurs working with Indian Corporate giants like Tata Enterprises and Bharat Forges Ltd, to name a few!</string>
+    <string name="about_us_content1">Address: NH-80, Sabour, Bhagalpur\n Bihar 813210\n\n Phone: 0641-2451063(O)\nFax:0641-2451063\n\nEmail:tpo_bcebgp@yahoo.co.in</string>
+    <string name="about_us_content2">Amar Choudhary\n\nMobile: +91 9350635939\n\nEmail: 1000wishes.in@gmail.com</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_dob">Date of Birth(DDMMYYYY)</string>
+    <string name="hint_adm_year">Admission Year</string>
+    <string name="hint_final_year">Final Year</string>
+    <string name="hint_branch">Branch</string>
+    <string name="hint_status">Marital Status</string>
+    <string name="hint_annv">Anniversary(DDMMYYYY)</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_organisation">Organisation</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link">Join BCE Family. Sign up.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="open">We </string>
+
+    <string name="title_activity_contact">contact</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+
+</resources>

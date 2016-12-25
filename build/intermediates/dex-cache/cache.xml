@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c0e7d7524592a1b1fd5a0d114377ee1333fe08bd">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_25080a76285523e2118bafc53fc94d6a8031d35c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_d48c073d6cdb08a59aa32a18f0328d635bebdadf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/libs/httpclient-4.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="733db77aa8d9b2d68015189df76ab06304406e50">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.5.2_d62577b70e07ef3f9062a57b0e03ae6921fefeff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bf2e7da46ee176e50a1cefb5b6eef2f4153884b3">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ecf267caff27251581e51b4cd5031353352a6027/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8ef0cc92a97cbc6a392e32845fcd6d515521efb6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_84298c8377d09fcc0e2c080b82c77f83b6878d8c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_0c6785d1bdb20d7b2ae8824a769b4c9c4c725157/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_f930dc5c516635d3668632c1183b1a4605e22062/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_933db70e58e65d8949c398315f52d0ac437f7744/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_5a35c930619df4ea380edb4d05028433d422d475/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_d2852c4984feb61d1b7dcd4872b479b17059f3d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_abac5b64f7fd4d4fa560422f1a48207245b60dc9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4d797ac762bb26be1da53b522b5e617ef4e0f3e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/libs/httpcore-4.4.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.4.4_1bf41cb5a1a1f9fc6365b25ea1307394d9c3a407/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_c863019a37b3d9161f47e1ff86a357c225e14c5d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_47aa2c2199fa868c4d21f008101c78dbc7de71bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_be546c3e8d5801e7cd3695fdbeefd131a67f3481/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4404070ca8fed5e6ab3b689f65a2380d63f9e3ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_e4267c6be8da92c12ecb8e9a75cd229d79cb3721/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_2179e3c97e81e5d44820c7270113f3281a8ee36b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_39ae566ef9da1eeeac71f378d0197a75d14612c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_f6750844b445d786b56c236502faf22fffecebd2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/pyRis/Desktop/BCE_APP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_17c6b234b3407ec8101cd9d401a9fb4e73846dcf/classes.dex" />
+    </item>
+
+</items>
